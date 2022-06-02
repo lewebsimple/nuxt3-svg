@@ -1,7 +1,7 @@
 {
   "name": "@lewebsimple/nuxt3-svg",
   "description": "Nuxt3 module for importing components from SVG files.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Pascal Martineau <pascal@lewebsimple.ca>",
   "license": "MIT",
   "type": "module",
