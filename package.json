@@ -21,7 +21,8 @@
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
     "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground",
-    "lint": "eslint --fix ."
+    "lint": "eslint --fix .",
+    "release": "release-it"
   },
   "dependencies": {
     "@nuxt/kit": "^3.0.0-rc.3",
@@ -30,7 +31,9 @@
   "devDependencies": {
     "@lewebsimple/eslint-config-vue": "^0.5.5",
     "@nuxt/module-builder": "latest",
+    "@release-it/conventional-changelog": "^5.0.0",
     "eslint": "latest",
-    "nuxt": "^3.0.0-rc.3"
+    "nuxt": "^3.0.0-rc.3",
+    "release-it": "^15.0.0"
   }
 }
