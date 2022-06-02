@@ -1,6 +1,6 @@
 {
   "extends": [
-    "@nuxtjs/eslint-config-typescript"
+    "@lewebsimple/eslint-config-vue"
   ],
   "rules": {
     "@typescript-eslint/no-unused-vars": [

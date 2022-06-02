@@ -20,15 +20,16 @@
     "prepack": "nuxt-module-build",
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
-    "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground"
+    "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground",
+    "lint": "eslint --fix ."
   },
   "dependencies": {
     "@nuxt/kit": "^3.0.0-rc.3",
     "vite-svg-loader": "^3.3.0"
   },
   "devDependencies": {
+    "@lewebsimple/eslint-config-vue": "^0.5.5",
     "@nuxt/module-builder": "latest",
-    "@nuxtjs/eslint-config-typescript": "latest",
     "eslint": "latest",
     "nuxt": "^3.0.0-rc.3"
   }

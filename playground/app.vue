@@ -6,5 +6,5 @@
 </template>
 
 <script setup>
-import NuxtLogo from '~/assets/nuxt.svg'
+import NuxtLogo from "~/assets/nuxt.svg";
 </script>
