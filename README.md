@@ -10,7 +10,7 @@ yarn add -D @lewebsimple/nuxt3-svg
 
 ## Setup
 
-#### `vite.config.js`
+#### `nuxt.config.js`
 
 ```ts
 import { defineNuxtConfig } from "nuxt";
