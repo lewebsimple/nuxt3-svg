@@ -1,6 +1,6 @@
 {
   "name": "@lewebsimple/nuxt3-svg",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Simple SVG loader for Nuxt 3",
   "repository": "lewebsimple/nuxt3-svg",
   "license": "MIT",
