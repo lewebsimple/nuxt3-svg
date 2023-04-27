@@ -1,5 +1,20 @@
 # Changelog
 
+## v0.2.1
+
+
+### 🚀 Enhancements
+
+  - Add previous CHANGELOG.md (755f962)
+
+### 🏡 Chore
+
+  - Initial nuxt module (69d67b7)
+
+### ❤️  Contributors
+
+- Pascal Martineau <pascal@websimple.com>
+
 ### 0.1.1 (2022-06-02)
 
 
